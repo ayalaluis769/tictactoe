@@ -1,0 +1,17 @@
+
+
+#game-container {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 100px 100px 100px;
+    padding: 80px;
+    justify-content: center;
+}
+
+.cell{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid midnightblue;
+    align-items: center;
+}
